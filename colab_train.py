@@ -7,7 +7,9 @@ import pandas as pd
 import joblib
 from collections import Counter
 from textblob import TextBlob
-from sklearn.ensemble import RandomForestClassifier
+import xgboost as xgb
+from xgboost import XGBClassifier
+from sklearn.utils.class_weight import compute_sample_weight
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report, accuracy_score
@@ -223,7 +225,7 @@ df['perplexity'] = perplexities
 ppl_array = np.array(perplexities)
 ppl_25, ppl_75 = float(np.percentile(ppl_array, 25)), float(np.percentile(ppl_array, 75))
 
-print("\n[7/8] Sub-sampling features & training Random Forest...")
+print("\n[7/8] Sub-sampling features & training XGBoost...")
 df['rating_numeric'] = pd.to_numeric(df['overall'], errors='coerce').fillna(3).astype(float)
 df['verified_numeric'] = (df['verified_purchase'] == 'Y').astype(float)
 df['word_count'] = df['clean_text'].apply(lambda x: len(x.split()))
@@ -239,25 +241,25 @@ X_scaled = scaler.fit_transform(X)
 
 X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, random_state=42, stratify=y)
 
-rf = RandomForestClassifier(
-    n_estimators=100,  # Lowered a bit to save memory/time on 90k
-    max_depth=20,
-    min_samples_split=5,
-    min_samples_leaf=2,
-    class_weight='balanced',
+sample_weights = compute_sample_weight('balanced', y_train)
+xgb_model = XGBClassifier(
+    n_estimators=150,  # More estimators for higher accuracy
+    max_depth=6,       # shallower trees for XGB
+    learning_rate=0.1,
+    tree_method='hist', # Extremely fast histogram method
     random_state=42,
     n_jobs=-1
 )
 start_time = time.time()
-rf.fit(X_train, y_train)
-print(f"  RF training done in {time.time() - start_time:.1f}s")
+xgb_model.fit(X_train, y_train, sample_weight=sample_weights)
+print(f"  XGBoost training done in {time.time() - start_time:.1f}s")
 
-y_pred = rf.predict(X_test)
+y_pred = xgb_model.predict(X_test)
 print(f"\nAccuracy: {accuracy_score(y_test, y_pred):.4f}")
 print(classification_report(y_test, y_pred, target_names=le.classes_))
 
 print("\n[8/8] Saving artifacts...")
-joblib.dump(rf, os.path.join(OUTPUT_DIR, "model.pkl"))
+joblib.dump(xgb_model, os.path.join(OUTPUT_DIR, "model.pkl"))
 joblib.dump(scaler, os.path.join(OUTPUT_DIR, "scaler.pkl"))
 joblib.dump(le, os.path.join(OUTPUT_DIR, "label_encoder.pkl"))
 
