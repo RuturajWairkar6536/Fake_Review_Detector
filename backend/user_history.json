@@ -1,13 +1,13 @@
 {
   "20422322": {
-    "reviews_submitted": 1,
-    "fake_count": 0,
-    "last_seen": "2026-04-11"
+    "reviews_submitted": 4,
+    "fake_count": 3,
+    "last_seen": "2026-04-18"
   },
   "20422324": {
-    "reviews_submitted": 6,
-    "fake_count": 2,
-    "last_seen": "2026-04-11"
+    "reviews_submitted": 14,
+    "fake_count": 10,
+    "last_seen": "2026-04-19"
   },
   "20422325": {
     "reviews_submitted": 5,
@@ -48,5 +48,175 @@
     "reviews_submitted": 1,
     "fake_count": 1,
     "last_seen": "2026-04-11"
+  },
+  "871668": {
+    "reviews_submitted": 7,
+    "fake_count": 5,
+    "last_seen": "2026-04-12"
+  },
+  "871699": {
+    "reviews_submitted": 1,
+    "fake_count": 1,
+    "last_seen": "2026-04-12"
+  },
+  "871696": {
+    "reviews_submitted": 1,
+    "fake_count": 1,
+    "last_seen": "2026-04-12"
+  },
+  "654324": {
+    "reviews_submitted": 3,
+    "fake_count": 3,
+    "last_seen": "2026-04-12"
+  },
+  "204233": {
+    "reviews_submitted": 1,
+    "fake_count": 1,
+    "last_seen": "2026-04-12"
+  },
+  "981289": {
+    "reviews_submitted": 3,
+    "fake_count": 1,
+    "last_seen": "2026-04-12"
+  },
+  "981280": {
+    "reviews_submitted": 6,
+    "fake_count": 1,
+    "last_seen": "2026-04-12"
+  },
+  "98129": {
+    "reviews_submitted": 2,
+    "fake_count": 2,
+    "last_seen": "2026-04-12"
+  },
+  "868995": {
+    "reviews_submitted": 4,
+    "fake_count": 4,
+    "last_seen": "2026-04-13"
+  },
+  "86899": {
+    "reviews_submitted": 3,
+    "fake_count": 3,
+    "last_seen": "2026-04-13"
+  },
+  "4678464": {
+    "reviews_submitted": 1,
+    "fake_count": 1,
+    "last_seen": "2026-04-16"
+  },
+  "368768": {
+    "reviews_submitted": 4,
+    "fake_count": 1,
+    "last_seen": "2026-04-18"
+  },
+  "532876": {
+    "reviews_submitted": 2,
+    "fake_count": 2,
+    "last_seen": "2026-04-18"
+  },
+  "20446489": {
+    "reviews_submitted": 2,
+    "fake_count": 2,
+    "last_seen": "2026-04-18"
+  },
+  "20442587": {
+    "reviews_submitted": 1,
+    "fake_count": 1,
+    "last_seen": "2026-04-18"
+  },
+  "728892": {
+    "reviews_submitted": 1,
+    "fake_count": 0,
+    "last_seen": "2026-04-19"
+  },
+  "728894": {
+    "reviews_submitted": 1,
+    "fake_count": 1,
+    "last_seen": "2026-04-19"
+  },
+  "spammer_99": {
+    "reviews_submitted": 5,
+    "fake_count": 5,
+    "last_seen": "2026-04-19"
+  },
+  "6536": {
+    "reviews_submitted": 2,
+    "fake_count": 1,
+    "last_seen": "2026-04-19"
+  },
+  "036536": {
+    "reviews_submitted": 1,
+    "fake_count": 1,
+    "last_seen": "2026-04-19"
+  },
+  "spammer_07": {
+    "reviews_submitted": 8,
+    "fake_count": 5,
+    "last_seen": "2026-04-19"
+  },
+  "spam_44": {
+    "reviews_submitted": 5,
+    "fake_count": 5,
+    "last_seen": "2026-04-22"
+  },
+  "spammer_23": {
+    "reviews_submitted": 13,
+    "fake_count": 3,
+    "last_seen": "2026-04-19"
+  },
+  "spammer_876": {
+    "reviews_submitted": 5,
+    "fake_count": 5,
+    "last_seen": "2026-04-22"
+  },
+  "spammer_786": {
+    "reviews_submitted": 4,
+    "fake_count": 4,
+    "last_seen": "2026-04-22"
+  },
+  "spammer_075": {
+    "reviews_submitted": 6,
+    "fake_count": 6,
+    "last_seen": "2026-04-22"
+  },
+  "spammer_074": {
+    "reviews_submitted": 11,
+    "fake_count": 0,
+    "last_seen": "2026-04-22"
+  },
+  "spammer_12397": {
+    "reviews_submitted": 5,
+    "fake_count": 2,
+    "last_seen": "2026-04-22"
+  },
+  "spammer_7639": {
+    "reviews_submitted": 9,
+    "fake_count": 9,
+    "last_seen": "2026-04-22"
+  },
+  "gsusjolk": {
+    "reviews_submitted": 6,
+    "fake_count": 6,
+    "last_seen": "2026-04-22"
+  },
+  "8689980": {
+    "reviews_submitted": 2,
+    "fake_count": 2,
+    "last_seen": "2026-04-22"
+  },
+  "Shanmuganathan Baluchamy": {
+    "reviews_submitted": 4,
+    "fake_count": 2,
+    "last_seen": "2026-04-26"
+  },
+  "spam_763": {
+    "reviews_submitted": 3,
+    "fake_count": 1,
+    "last_seen": "2026-04-26"
+  },
+  "spam45": {
+    "reviews_submitted": 6,
+    "fake_count": 1,
+    "last_seen": "2026-04-26"
   }
 }
