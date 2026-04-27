@@ -11,3 +11,5 @@ nltk>=3.8
 sentence-transformers>=2.2
 transformers>=4.36
 torch>=2.0
+plotly>=5.18
+xgboost>=2.0
