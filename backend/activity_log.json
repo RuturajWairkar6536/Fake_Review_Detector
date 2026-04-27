@@ -1,0 +1,748 @@
+{
+  "entries": [
+    {
+      "user_id": "532876",
+      "ip": "193.93.167.41",
+      "timestamp": "2026-04-18T19:13:32.955496",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "532876",
+      "ip": "193.93.167.41",
+      "timestamp": "2026-04-18T19:15:08.986574",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "20422322",
+      "ip": "193.93.167.87",
+      "timestamp": "2026-04-22T23:57:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "20422322",
+      "ip": "193.93.167.87",
+      "timestamp": "2026-04-22T23:57:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "20422322",
+      "ip": "193.93.167.87",
+      "timestamp": "2026-04-22T23:54:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "20446489",
+      "ip": "193.93.167.12",
+      "timestamp": "2026-04-22T23:54:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "20446489",
+      "ip": "193.93.167.12",
+      "timestamp": "2026-04-22T23:54:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "20442587",
+      "ip": "193.93.16.54",
+      "timestamp": "2026-04-22T23:54:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "",
+      "ip": "",
+      "timestamp": "2026-04-18T22:00:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "",
+      "ip": "",
+      "timestamp": "2026-04-18T22:00:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "",
+      "ip": "",
+      "timestamp": "2026-04-18T22:00:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "",
+      "ip": "",
+      "timestamp": "2026-04-18T22:00:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "",
+      "ip": "",
+      "timestamp": "2026-04-18T22:00:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "",
+      "ip": "",
+      "timestamp": "2026-04-18T22:00:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "728892",
+      "ip": "193.93.123.22",
+      "timestamp": "2026-04-19T11:25:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "728894",
+      "ip": "193.93.123.21",
+      "timestamp": "2026-04-19T11:28:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "20422324",
+      "ip": "193.93.167.87",
+      "timestamp": "2026-04-19T11:28:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "",
+      "ip": "",
+      "timestamp": "2026-04-19T11:50:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_99",
+      "ip": "",
+      "timestamp": "2026-04-19T11:50:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_99",
+      "ip": "",
+      "timestamp": "2026-04-19T11:50:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_99",
+      "ip": "",
+      "timestamp": "2026-04-19T11:50:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spammer_99",
+      "ip": "",
+      "timestamp": "2026-04-19T11:50:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spammer_99",
+      "ip": "",
+      "timestamp": "2026-04-19T11:50:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "6536",
+      "ip": "193.93.167.50",
+      "timestamp": "2026-04-19T11:50:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "6536",
+      "ip": "193.93.167.50",
+      "timestamp": "2026-04-19T11:50:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "036536",
+      "ip": "193.93.167.50",
+      "timestamp": "2026-04-19T11:50:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spammer_07",
+      "ip": "",
+      "timestamp": "2026-04-19T12:07:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_07",
+      "ip": "",
+      "timestamp": "2026-04-19T12:07:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_07",
+      "ip": "",
+      "timestamp": "2026-04-19T12:07:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_07",
+      "ip": "",
+      "timestamp": "2026-04-19T12:07:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_07",
+      "ip": "",
+      "timestamp": "2026-04-19T12:07:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_07",
+      "ip": "",
+      "timestamp": "2026-04-19T12:07:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_07",
+      "ip": "",
+      "timestamp": "2026-04-19T12:07:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_07",
+      "ip": "",
+      "timestamp": "2026-04-19T12:07:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spam_44",
+      "ip": "",
+      "timestamp": "2026-04-19T16:48:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spam_44",
+      "ip": "",
+      "timestamp": "2026-04-19T16:48:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spam_44",
+      "ip": "",
+      "timestamp": "2026-04-19T16:48:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spam_44",
+      "ip": "",
+      "timestamp": "2026-04-19T16:48:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_23",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_23",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_23",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_23",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_23",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_23",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_23",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_23",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_23",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_23",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_23",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_23",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_23",
+      "ip": "",
+      "timestamp": "2026-04-19T22:42:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_876",
+      "ip": "134.97.2.179",
+      "timestamp": "2026-04-22T15:45:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_876",
+      "ip": "134.97.2.179",
+      "timestamp": "2026-04-22T15:45:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_876",
+      "ip": "134.97.2.179",
+      "timestamp": "2026-04-22T15:45:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spammer_876",
+      "ip": "134.97.2.179",
+      "timestamp": "2026-04-22T15:45:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spammer_876",
+      "ip": "134.97.2.179",
+      "timestamp": "2026-04-22T16:28:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spammer_786",
+      "ip": "134.97.2.12",
+      "timestamp": "2026-04-22T16:28:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_786",
+      "ip": "134.97.2.12",
+      "timestamp": "2026-04-22T16:28:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_786",
+      "ip": "134.97.2.12",
+      "timestamp": "2026-04-22T16:28:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spammer_786",
+      "ip": "134.97.2.12",
+      "timestamp": "2026-04-22T16:28:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spammer_075",
+      "ip": "134.97.2.11",
+      "timestamp": "2026-04-22T17:50:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_075",
+      "ip": "134.97.2.11",
+      "timestamp": "2026-04-22T17:50:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_075",
+      "ip": "134.97.2.11",
+      "timestamp": "2026-04-22T17:50:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spammer_075",
+      "ip": "134.97.2.11",
+      "timestamp": "2026-04-22T17:50:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spammer_075",
+      "ip": "134.97.2.11",
+      "timestamp": "2026-04-22T17:50:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spammer_075",
+      "ip": "134.97.2.11",
+      "timestamp": "2026-04-22T17:50:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spammer_074",
+      "ip": "134.97.2.16",
+      "timestamp": "2026-04-22T07:03:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_074",
+      "ip": "134.97.2.16",
+      "timestamp": "2026-04-22T11:12:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_074",
+      "ip": "134.97.2.16",
+      "timestamp": "2026-04-22T11:12:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_074",
+      "ip": "134.97.2.16",
+      "timestamp": "2026-04-22T11:12:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_074",
+      "ip": "134.97.2.16",
+      "timestamp": "2026-04-22T11:12:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_074",
+      "ip": "134.97.2.16",
+      "timestamp": "2026-04-22T11:12:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_074",
+      "ip": "134.97.2.16",
+      "timestamp": "2026-04-22T11:12:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_074",
+      "ip": "134.97.2.16",
+      "timestamp": "2026-04-22T11:12:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_074",
+      "ip": "134.97.2.16",
+      "timestamp": "2026-04-22T11:12:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_074",
+      "ip": "134.97.2.16",
+      "timestamp": "2026-04-22T11:12:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_074",
+      "ip": "134.97.2.16",
+      "timestamp": "2026-04-22T11:12:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_12397",
+      "ip": "123.56.87.53",
+      "timestamp": "2026-04-22T16:22:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_12397",
+      "ip": "123.56.87.53",
+      "timestamp": "2026-04-22T16:22:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_12397",
+      "ip": "123.56.87.53",
+      "timestamp": "2026-04-22T16:22:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spammer_12397",
+      "ip": "123.56.87.53",
+      "timestamp": "2026-04-22T16:22:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_12397",
+      "ip": "123.56.87.53",
+      "timestamp": "2026-04-22T16:22:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_7639",
+      "ip": "164.168.7.12",
+      "timestamp": "2026-04-22T18:05:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_7639",
+      "ip": "164.168.7.12",
+      "timestamp": "2026-04-22T18:43:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spammer_7639",
+      "ip": "164.168.7.12",
+      "timestamp": "2026-04-22T19:30:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spammer_7639",
+      "ip": "164.168.7.12",
+      "timestamp": "2026-04-22T20:37:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spammer_7639",
+      "ip": "164.168.7.12",
+      "timestamp": "2026-04-22T02:08:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spammer_7639",
+      "ip": "164.168.7.12",
+      "timestamp": "2026-04-22T02:08:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spammer_7639",
+      "ip": "164.168.7.12",
+      "timestamp": "2026-04-22T02:08:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spammer_7639",
+      "ip": "164.168.7.12",
+      "timestamp": "2026-04-22T02:08:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spammer_7639",
+      "ip": "164.168.7.12",
+      "timestamp": "2026-04-22T02:08:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "gsusjolk",
+      "ip": "193.93.167.182",
+      "timestamp": "2026-04-22T01:46:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "gsusjolk",
+      "ip": "193.93.167.182",
+      "timestamp": "2026-04-22T01:46:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "gsusjolk",
+      "ip": "193.93.167.182",
+      "timestamp": "2026-04-22T01:46:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "gsusjolk",
+      "ip": "193.93.167.182",
+      "timestamp": "2026-04-22T01:46:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "gsusjolk",
+      "ip": "193.93.167.182",
+      "timestamp": "2026-04-22T01:46:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "gsusjolk",
+      "ip": "193.93.167.182",
+      "timestamp": "2026-04-22T01:46:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spam_44",
+      "ip": "192.12.23.11",
+      "timestamp": "2026-04-22T21:41:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "8689980",
+      "ip": "192.12.23.11",
+      "timestamp": "2026-04-22T21:41:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "8689980",
+      "ip": "192.12.23.11",
+      "timestamp": "2026-04-22T21:41:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "Shanmuganathan Baluchamy",
+      "ip": "193.93.82.123",
+      "timestamp": "2026-04-26T23:31:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "Shanmuganathan Baluchamy",
+      "ip": "193.93.82.123",
+      "timestamp": "2026-04-26T23:31:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "Shanmuganathan Baluchamy",
+      "ip": "193.93.82.123",
+      "timestamp": "2026-04-26T23:31:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "Shanmuganathan Baluchamy",
+      "ip": "193.93.82.123",
+      "timestamp": "2026-04-26T23:31:00",
+      "prediction": "Manipulative"
+    },
+    {
+      "user_id": "spam_763",
+      "ip": "192.12.23.17",
+      "timestamp": "2026-04-26T22:40:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spam_763",
+      "ip": "192.12.23.17",
+      "timestamp": "2026-04-26T22:40:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spam_763",
+      "ip": "192.12.23.17",
+      "timestamp": "2026-04-26T22:40:00",
+      "prediction": "Suspicious"
+    },
+    {
+      "user_id": "spam45",
+      "ip": "192.12.23.198",
+      "timestamp": "2026-04-26T10:57:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spam45",
+      "ip": "192.12.23.198",
+      "timestamp": "2026-04-26T11:51:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spam45",
+      "ip": "192.12.23.198",
+      "timestamp": "2026-04-26T13:10:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spam45",
+      "ip": "192.12.23.198",
+      "timestamp": "2026-04-26T14:34:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spam45",
+      "ip": "192.12.23.198",
+      "timestamp": "2026-04-26T14:34:00",
+      "prediction": "Genuine"
+    },
+    {
+      "user_id": "spam45",
+      "ip": "192.12.23.198",
+      "timestamp": "2026-04-26T14:34:00",
+      "prediction": "Suspicious"
+    }
+  ]
+}
